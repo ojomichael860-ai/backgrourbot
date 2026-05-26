@@ -1,0 +1,3 @@
+python-telegram-bot==21.1.1
+rembg==2.0.62
+Pillow>=10.0.0
